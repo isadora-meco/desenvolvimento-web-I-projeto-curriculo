@@ -90,7 +90,7 @@ body {
 }
 
 .skill {
-  flex: 1 1 120px; /* flex-grow, flex-shrink, base width */
+  flex: 1 1 120px;
   background: #f3f6f8;
   padding: 0.5rem;
   border-radius: 8px;
@@ -197,6 +197,7 @@ footer {
 
   .skills {
     flex-direction: column;
+    width: 100%;
   }
 
   .skill {
